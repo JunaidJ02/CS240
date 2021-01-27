@@ -1,0 +1,7 @@
+B3|Black:??|??|D4|D2|A5|C5|A1|C1
+B5|Black:??|??|D6|D4|A7|C7|A3|C3
+C2|White:A3|A1|E3|E1|B4|D4|??|??
+C6|White:A7|A5|E7|E5|B8|D8|B4|D4
+D4|White:B5|B3|F5|F3|C6|E6|C2|E2
+E2|Black:C3|C1|G3|G1|D4|F4|??|??
+E6|Black:C7|C5|G7|G5|D8|F8|D4|F4

@@ -1,0 +1,1 @@
+test1.txt has more overall sold price by 168775 than test.txt in 9/2020

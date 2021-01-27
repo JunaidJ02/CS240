@@ -1,0 +1,6 @@
+Question 1: /homes/javedj/cs240/hw0
+Question 2: cp style_sample.c ~/cs240/hw0/
+Question 3: ~/cs240/hw0/another_file, answers, my_file, my_file2, style_sample.c, style_sample.h
+Question 4: Absolute path starts off at the root directory and goes where the user specifies. Relative path starts off at the current directory and goes where the user specifies. Aboslute path is useful when you have to go back to the root directory to get a file while relative path is mostly used when the file you need is in the current working directory.
+Question 6: /homes/javedj/cs240/hw0-old
+Question 7: cp hello.c answers ../hw0

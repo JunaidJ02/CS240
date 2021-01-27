@@ -1,0 +1,12 @@
+Bean,Johnson,143639,34,5,2018
+Chapman,Elkhart,79848,37,16,2019
+Barry,Dearborn,118833,39,5,2020
+Robinson,Whitley,179868,34,19,2018
+Searfoss,Elkhart,69968,33,15,2019
+Grunsfeld,Jackson,112396,37,20,2018
+Lawrence,Knox,131972,37,18,2020
+Akers,Marshall,152514,10,14,-7
+Taft,Starke,139447,35,9,2018
+Runco,Huntington,174863,33,12,2019
+McBride,Monroe,144336,32,11,2019
+
